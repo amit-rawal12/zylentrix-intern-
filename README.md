@@ -36,7 +36,8 @@ samples, guidance on mobile development, and a full API reference.
 - `FutureBuilder` is used to manage the API response efficiently.
 
 ## 📷 App Screenshot
-![2025-02-06](https://github.com/user-attachments/assets/749625a1-a82a-476f-978b-b92279fb1200)
+![Screenshot 2025-03-20 194142](https://github.com/user-attachments/assets/cad396e6-a3ce-46b6-b842-69ca17aa1cae)
+
 
 ## 🚀 Future Improvements
 - Add a **search feature** to filter posts.
